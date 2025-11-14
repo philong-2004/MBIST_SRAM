@@ -1,0 +1,15 @@
+QuestaSim-64 vlog 10.2c Compiler 2013.07 Jul 19 2013
+D:\QuetaSim\win64\vlog.exe -sv +incdir+D:/QuetaSim/verilog_src/uvm-1.1d/src +incdir+../tb +incdir+../rtl -f compile.f -l compile.log 
+-- Compiling module addr_gen
+-- Compiling module comparator
+-- Compiling module data_gen
+-- Compiling module mbist_top
+-- Compiling module mem
+-- Compiling module SRAM1RW128x8
+-- Compiling module SRAM1RW128x8_1bit
+-- Compiling module SRAM2RW128x8
+-- Compiling module SRAM2RW128x8_1bit
+-- Compiling module mbist_top_tb
+
+Top level modules:
+	mbist_top_tb

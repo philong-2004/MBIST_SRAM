@@ -1,0 +1,11 @@
++incdir+../rtl
+../rtl/addr_gen.v
+../rtl/comparator.v
+../rtl/data_gen.v
+../rtl/mbist_top.v
++incdir+../RAM
+../RAM/mem32.v
+../RAM/SRAM1RW128x8.v
+../RAM/SRAM2RW128x8.v
++incdir+../tb
+../tb/mbist_top_tb.v
