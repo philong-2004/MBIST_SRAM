@@ -349,19 +349,4 @@ module mbist_top (CLK, nRESET, MBISTEN, DATAOUT, ADDR_top, DATA_DUT, TESTTYPE, i
     end
 
 
-    // task checkerboard_mode ();
-        
-    // endtask
-
-
-    // task mscan_mode(); //MSCAN Algorithm
-        
-    // endtask
-
-    // task marchC_mode ();
-        
-
-    // endtask
-
-
 endmodule
